@@ -1,0 +1,15 @@
+.div {
+  background-color: #eaeaea;
+  padding: 20px;
+  height: 200px;
+}
+
+.hello {
+  color: green;
+}
+
+.moji {
+  color: white;
+  background-color: blue;
+  /*red;*/
+}
