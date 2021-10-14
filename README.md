@@ -1,6 +1,7 @@
 # Test using pug and sass on gulp v4.
 
 DEMO  
+<img src="https://evofan.github.io/test_pug_sass_gulp4/screenshot/pic_dist.png" width="25%">   
 [https://evofan.github.io/test_pug_sass_gulp4/dist/index.html](https://evofan.github.io/test_pug_sass_gulp4/dist/index.html)  
 
 usage  
@@ -8,7 +9,7 @@ usage
 `gulp`  
 
 exec.  
-<img src="https://evofan.github.io/test_pug_sass_gulp4/screenshot/pic_gulp.png" width="50%">   
+<img src="https://evofan.github.io/test_pug_sass_gulp4/screenshot/pic_gulp.png" width="25%">   
 
 reference  
 
